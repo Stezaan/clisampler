@@ -1,0 +1,17 @@
+# Compiled files
+clisampler
+*.o
+*.out
+
+# Output files
+output.wav
+test_input.wav
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
