@@ -9,10 +9,3 @@ A command-line tool for downsampling audio files with support for multiple forma
 - Simple command-line interface
 - Cross-platform (Linux, macOS)
 
-## Installation
-
-### Automatic Installation
-
-```bash
-chmod +x install.sh
-./install.sh
